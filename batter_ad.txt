@@ -1,4 +1,3 @@
-,,,,,Batting,Batting,Batting,Batting,Batting Ratios,Batting Ratios,Batting Ratios,Batted Ball,Batted Ball,Batted Ball,Batted Ball,Batted Ball,Batted Ball,Batted Ball,Batted Ball,Batted Ball,Win Probability,Win Probability,Win Probability,Baserunning,Baserunning,Baserunning,-additional
 Rk,Name,Age,Tm,PA,rOBA,Rbat+,BAbip,ISO,HR%,SO%,BB%,EV,HardH%,LD%,GB%,FB%,GB/FB,Pull%,Cent%,Oppo%,WPA,cWPA,RE24,RS%,SB%,XBT%,-9999
 1,CJ Abrams,21,TOT,302,.272,76,.291,.077,0.7%,16.6%,1.7%,85.2,31.1%,18.5%,50.0%,21.0%,1.05,27.7%,55.9%,16.4%,-1.0,-0.6%,-10.5,37%,64%,46%,abramcj01
 2,CJ Abrams,21,SDP,139,.268,77,.276,.088,1.4%,19.4%,2.9%,83.7,28.7%,16.7%,48.0%,24.5%,1.00,25.5%,60.8%,13.7%,-0.9,-0.6%,-8.5,36%,33%,63%,abramcj01
